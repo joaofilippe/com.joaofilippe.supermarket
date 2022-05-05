@@ -7,6 +7,7 @@ public class Main {
         final String NAME;
         final double PRICE;
         final int QUANTITY;
+        final boolean AVALIABLE;
 
         constructor(){
 
